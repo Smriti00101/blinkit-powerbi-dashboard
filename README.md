@@ -36,7 +36,7 @@ Support strategic business decisions with data-driven insights.
 ##Preview
 
 <img width="597" height="329" alt="image" src="https://github.com/user-attachments/assets/972ed9f9-d137-4882-ab18-ea74963c1f40" />
-<img width="541" height="305" alt="image" src="https://github.com/user-attachments/assets/63f77f82-462e-47a1-90c9-7659084901a1" />
+<img width="632" height="338" alt="image" src="https://github.com/user-attachments/assets/76196a64-556c-4ef3-bdbe-51faeb7e6692" />
 <img width="611" height="334" alt="image" src="https://github.com/user-attachments/assets/ee69fda0-5f51-4673-8d13-198f1bbee4fd" />
 <img width="615" height="338" alt="image" src="https://github.com/user-attachments/assets/ac12f1aa-20a8-4158-80a2-2ec20f278ff2" />
 <img width="613" height="332" alt="image" src="https://github.com/user-attachments/assets/d3bafc3b-9d3b-4465-b45b-cc01fdaff619" />
